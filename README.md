@@ -1,0 +1,1 @@
+Algorithm Visualizer is an interactive platform that visually represents sorting, pathfinding and convex hull algorithms, with more to come soon!
